@@ -1,0 +1,5 @@
+const N_FIRST_SYNBOLS_FOR_TITLE = 10;
+
+module.exports = {
+    N_FIRST_SYNBOLS_FOR_TITLE: N_FIRST_SYNBOLS_FOR_TITLE
+}
